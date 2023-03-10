@@ -19,6 +19,7 @@ footer {
   padding: 1rem;
   position: absolute;
   width: 100%;
+  text-align: center;
 
   a {
     text-decoration: none;
