@@ -1,5 +1,5 @@
 import * as types from "./mutations-types";
-import Vue from "./vue";
+import Vue from "vue";
 
 export default {
   // fetch de los paneles creados por el usuario
